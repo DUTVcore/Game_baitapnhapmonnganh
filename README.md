@@ -10,7 +10,7 @@ These instructions will help you set up and play the game on your local machine.
 
 Clone this repository to your local system:
 ```bash
-git clone https://github.com/nberdi/Fruit-Catcher.git
+git clone https://github.com/Plnboverclocking/Game_baitapnhapmonnganh
 ```
 
 ## 2. Install Requirements
@@ -51,9 +51,3 @@ python game.py
     - Coin Sound: Plays every time you earn points.
 - Visuals:
     - Designed with a light green background for an appealing look.
-
-## Contact
-Feel free to reach out via:
--     berdinauryzbek@gmail.com
--     berdin@berea.edu
-- [LinkedIn](https://www.linkedin.com/in/nauryzbekberdi/)
