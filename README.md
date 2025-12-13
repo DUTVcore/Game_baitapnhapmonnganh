@@ -76,6 +76,7 @@ If you have built the project or downloaded the release, simply open `game.exe` 
 ├── settings.py         # Configuration (screen size, colors, items)
 ├── game.spec           # PyInstaller configuration
 └── README.md           # Documentation
-
+```
+---
 👨‍💻 Authors
 DUTVcore & TranHuuLai
